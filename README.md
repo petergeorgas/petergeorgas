@@ -1,7 +1,7 @@
 ## 💭 About
 - 👋 Hi, I’m @petergeorgas
 - 👀 I’m interested in offensive/defensive cyber, mobile development (iOS and Android), full-stack web development, cloud engineering, and back-end web services
-   - For one reason or another, I am really enjoying full-stack web development right now, and am self-studying React, Node.js, and some of the many libraries that come along with them (Express, Redux, bcrypt, mongoose, and Next.js -- just to name a few).
+   - For one reason or another, I am really enjoying writing code with Go right now, and have even [contributed to an open source project](https://github.com/keploy/samples-go) written completely in Go called [Keploy](https://github.com/keploy/keploy). 
 - 🌱 Recently worked at Leidos as a Cyber Software Engineer Intern from June-December 2021
 - 🤝 I’m looking to collaborate on anything! Feel free to reach out if you've got a cool project!
 - 📫 Reach me by contacting my email: peter.georgas@utoledo.edu
