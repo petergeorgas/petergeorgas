@@ -1,8 +1,8 @@
 ## 💭 About
 - 👋 Hi, I’m @petergeorgas
-- 👀 I’m interested in offensive/defensive cyber, mobile development (iOS and Android), full-stack web development, cloud engineering, and back-end web services
+- 👀 I’m interested in full-stack development, cloud engineering, and back-end web services
    - For one reason or another, I am really enjoying writing code with Go right now, and have even [contributed to an open source project](https://github.com/keploy/samples-go) written completely in Go called [Keploy](https://github.com/keploy/keploy). 
-- 🌱 Recently worked at Leidos as a Cyber Software Engineer Intern from June-December 2021
+- 🌱 Currently working at Twitch (an Amazon company) as a Software Engineer Intern
 - 🤝 I’m looking to collaborate on anything! Feel free to reach out if you've got a cool project!
 - 📫 Reach me by contacting my email: peter.georgas@utoledo.edu
 
